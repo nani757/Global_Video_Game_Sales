@@ -1,5 +1,11 @@
 # Global_Video_Game_Sales
 ## Did you know that the video game industry is now worth billions of dollars and continues to grow rapidly each year?
+* i have used the datasetthat contains information about video game sales for different gaming platforms, publishers, genres, and regions around the world.
+
+
+* also the dataset includes several features such as the name of the game, the year it was released, the gaming platform it was released on, the publisher of the game, the genre of the game, and the total number of copies sold worldwide
+
+
 
 #### Global Video Game Insights: Platform-Genre Combinations and Consumer Behavior Analysis
 
