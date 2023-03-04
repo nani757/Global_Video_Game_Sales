@@ -25,6 +25,7 @@
         
         4) and how sales trends have changed over time in different regions of the world.
 
+![vikas_chary_create_an_image_of_a_video_game_related_d2d4c790-073e-437a-8ceb-ed69df96ae4a](https://user-images.githubusercontent.com/68773015/222927767-379131c7-37fc-4841-bccd-07ad62a5fb7d.png)
 
 
 
