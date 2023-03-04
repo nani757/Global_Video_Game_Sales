@@ -2,7 +2,10 @@
 ## Did you know that the video game industry is now worth billions of dollars and continues to grow rapidly each year?
 * The dataset you are referring to is a collection of video game sales data from around the world. The data was sourced from various public sources, including websites, forums, and other publicly available databases. The dataset contains information about video game sales from 1980 to 2016.
   
-* 
+* The video game industry is a rapidly growing industry that encompasses the development, marketing, and sales of video games. The industry is driven by the demand for video games, which are played on a wide range of platforms, including consoles, computers, mobile devices, and virtual reality devices. The industry is highly competitive, with many game developers and publishers vying for market share.
+  
+*
+
 * i have used the datasetthat contains information about video game sales for different gaming platforms, publishers, genres, and regions around the world.
 
 
