@@ -12,6 +12,7 @@
 
 
 The objective of this analysis is to explore the global video game sales data available in the provided dataset and identify insights into the video game industry. Specifically, 
+
     A) the goal is to gain a deeper understanding of the factors that contribute to the success of video games and identify trends and patterns in sales data that could be used to inform business decisions for video game companies. 
     
     B) Through this analysis, we hope to answer questions such as 
