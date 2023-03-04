@@ -35,7 +35,7 @@
 
 * Feature engineering
 
-\* Machine learning modeling
+* Machine learning modeling
 
 
 
