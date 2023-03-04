@@ -8,6 +8,7 @@
 
 * The dataset contains information on more than 16,500 video games, including the name of the game, the year it was released, the platform it was released on, the publisher of the game, the genre of the game, and the total number of copies sold worldwide. The data is organized into a CSV file, with each row representing a single game and its associated information.
 
+![vikas_chary_create_an_image_of_a_video_game_related_4e395834-aa2e-47b1-a9ce-1bb75a316bba](https://user-images.githubusercontent.com/68773015/222927093-ca8905a6-8fe2-4378-b7a9-18f3edad5005.png)
 
 
 #### Global Video Game Insights: Platform-Genre Combinations and Consumer Behavior Analysis
