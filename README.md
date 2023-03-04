@@ -11,6 +11,10 @@
 * The dataset contains information on more than 16,500 video games, including the name of the game, the year it was released, the platform it was released on, the publisher of the game, the genre of the game, and the total number of copies sold worldwide. The data is organized into a CSV file, with each row representing a single game and its associated information.
 
 
+The objective of this analysis is to explore the global video game sales data available in the provided dataset and identify insights into the video game industry. Specifically, the goal is to gain a deeper understanding of the factors that contribute to the success of video games and identify trends and patterns in sales data that could be used to inform business decisions for video game companies. Through this analysis, we hope to answer questions such as which gaming platforms are the most popular, which game genres are the most profitable, which publishers have the highest sales, and how sales trends have changed over time in different regions of the world.
+
+
+
 
 #### Global Video Game Insights: Platform-Genre Combinations and Consumer Behavior Analysis
 
